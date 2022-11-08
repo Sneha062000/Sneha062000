@@ -9,7 +9,7 @@
 </p>
 
 ---
-<!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Shadab azam ansari</h1> -->
+<!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Sneha Manoj Shinde</h1> -->
 <h3>I'm a Software Engineer.</h3>
 
 - 🎓 I am Completed My Diploma in **Computer Science** from **Government Polytechnic Nashik**. <br>
