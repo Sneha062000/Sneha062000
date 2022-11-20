@@ -54,7 +54,7 @@
 ## Contribution Graph 📊
 
 <img
-     src="https://activity-graph.herokuapp.com/graph?username=sazamansari&theme=chartreuse-dark"
+     src="https://activity-graph.herokuapp.com/graph?username=sneha062000&theme=chartreuse-dark"
      />
 <!-- ### Show some ❤️ by starring some of the repositories!
 
