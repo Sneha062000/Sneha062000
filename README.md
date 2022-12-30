@@ -52,8 +52,7 @@
 </details>
 
 ## Contribution Graph 📊
-
-<img src="https://activity-graph.herokuapp.com/graph?username="Sneha062000&theme=chartreuse-dark"/>
+[![Snesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sneha062000&bg_color=000000&color=bdb2bd&line=d110c4&point=c00202&area=true&hide_border=true)](https://github.com/Sneha062000/github-readme-activity-graph)
 <!-- ### Show some ❤️ by starring some of the repositories!
 
 </div>
